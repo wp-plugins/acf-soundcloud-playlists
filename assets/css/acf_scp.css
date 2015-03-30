@@ -1,0 +1,14 @@
+body.scp-active #TB_ajaxContent { width: auto !important; }
+body.scp-active .tb-close-icon { left: auto; right: -30px; color: #eee; -webkit-transition: color .1s ease-in-out,background .1s ease-in-out; transition: color .1s ease-in-out,background .1s ease-in-out; }
+body.scp-active .tb-close-icon:before { content: "\f335"; font-size: 32px; }
+.scp-loading .spinner { display: block !important; position: absolute; top: 50%; left: 48%; z-index: 99; }
+.browse-container {padding: 0 1em;}
+.browse-content	{  width: 70%;margin: 50px auto 0; }
+.browse-header { border-bottom: 1px solid #CFCFCF; padding-bottom: 1em; margin-bottom: 1em; }
+.browse-header h2,h3,h4 { margin-bottom: 0; }
+.browse-footer {	position: absolute; bottom: 0; right: 0; padding: 1em 1em; width: 100%; box-sizing: border-box; text-align: right; border-top: 1px solid #CFCFCF; background: #FCFCFC;}
+.auth { margin: 15px 0; }
+.auth .confirm_to_connectOff { border-top-width: 1px; border-top-style: solid; border-top-color: rgb(68, 68, 68); margin-top: 10px; position: relative;}
+.go-disconnect { display: block; float: left; line-height: 30px; }
+.important-button { border: 1px solid; padding: 1.2em; font-size: 140%; display: inline-block; cursor: pointer; border-radius: 4px; }
+.playlist-label .track-count { display: inline-block; background-color: #FA6518; color: #fff; font-size: 9px; line-height: 17px; font-weight: 600; margin: 5px 0 0 2px; vertical-align: top; -webkit-border-radius: 10px; border-radius: 10px; z-index: 26; padding: 0 6px; }
