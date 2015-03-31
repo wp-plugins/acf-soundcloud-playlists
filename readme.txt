@@ -1,4 +1,4 @@
-=== ACF - SoundCloud Playlists ===
+=== ACF SoundCloud Playlists ===
 Contributors: drebbits.web
 Tags: acf, advanced custom fields, soundcloud, playlist, audio, podcast
 Requires at least: 3.8
@@ -24,7 +24,7 @@ PS: You need [Advanced Custom Fields](http://www.advancedcustomfields.com/pro/) 
 2. Upload 'acf-scp' to your '/wp-content/plugins/' folder.
 3. Go ahead and activate the plugin in the 'Plugins' admin page in WordPress.
 4. Configure your SoundCloud keys in the 'SoundCloud' under WP admin 'Settings'.
-4. Create a field group in Custom Fields and you should see 'Playlists (SoundCloud)' under Content available by now.
+5. Create a field group in Custom Fields and you should see 'Playlists (SoundCloud)' under Content available by now.
 
 
 == Frequently Asked Questions ==
@@ -45,9 +45,9 @@ Me: Feel free to create a support thread and i'll try my best to get on with it.
 
 2. Adding SoundCloud field type in your field group.
 
-3. Authenticate SoundCloud
+3. Authenticate SoundCloud.
 
-4. Browse your playlists
+4. Browse your playlists.
 
 5. Selected playlists in the page WP admin.
 
