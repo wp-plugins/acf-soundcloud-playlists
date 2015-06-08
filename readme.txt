@@ -2,7 +2,7 @@
 Contributors: drebbits.web
 Tags: acf, advanced custom fields, soundcloud, playlist, audio, podcast
 Requires at least: 3.8
-Tested up to: 4.1.1
+Tested up to: 4.2.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -13,7 +13,10 @@ An ACF Field type to browse your very own SoundCloud playlists and add them to y
 
 This field will bring your very own SoundCloud playlists to your WordPress site.
 
-Compatible with Advanced Custom Fields 4 & 5.
+Compatible with Advanced Custom Fields:
+
+* 4 (tested up to 4.4.2)
+* 5 (PRO, tested up to 5.2.6)
 
 PS: You need [Advanced Custom Fields](http://www.advancedcustomfields.com/pro/) installed to use this. You can grab the free version [here](https://wordpress.org/plugins/advanced-custom-fields/).
 
